@@ -3,7 +3,7 @@
 #header4-0 H1 {
   font-family: 'Droid Sans', sans-serif;
   text-align: center;
-  color: #5f5454;
+  color: #f1c7c7;
   font-size: 32px;
 }
 #header4-0 P {
@@ -13,7 +13,7 @@
   font-size: 16px;
 }
 #ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #7c706b;
+  background: #dccbc1;
 }
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -22,7 +22,7 @@
   font-size: 16px;
 }
 #ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #7c706b;
+  background: #dccbc1;
 }
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -31,7 +31,7 @@
   font-size: 16px;
 }
 #ext_menu-k.mbr-navbar--stuck .mbr-navbar__section {
-  background: #7c706b;
+  background: #dccbc1;
 }
 #ext_menu-k .mbr-navbar__hamburger {
   color: #ffffff;
@@ -51,7 +51,7 @@
   font-size: 16px;
 }
 #ext_menu-k.mbr-navbar--stuck .mbr-navbar__section {
-  background: #7c706b;
+  background: #dccbc1;
 }
 #ext_menu-k .mbr-navbar__hamburger {
   color: #ffffff;
@@ -63,5 +63,42 @@
   color: #ffffff;
 }
 #msg-box4-t .mbr-article {
+  color: #ffffff;
+}
+#ext_menu-u .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #dccbc1;
+}
+#ext_menu-u .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+
+#header4-z H1 {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: center;
+  color: #f1c7c7;
+  font-size: 32px;
+}
+#header4-z P {
+  text-align: right;
+}
+#ext_menu-10 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-10.mbr-navbar--stuck .mbr-navbar__section {
+  background: #dccbc1;
+}
+#ext_menu-10 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-11 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-11.mbr-navbar--stuck .mbr-navbar__section {
+  background: #dccbc1;
+}
+#ext_menu-11 .mbr-navbar__hamburger {
   color: #ffffff;
 }
