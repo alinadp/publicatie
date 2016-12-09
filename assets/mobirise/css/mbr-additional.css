@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 
 #header4-0 H1 {
   font-family: 'Droid Sans', sans-serif;
@@ -100,5 +101,103 @@
   background: #dccbc1;
 }
 #ext_menu-11 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+
+#header4-1f H1 {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: center;
+  color: #f1c7c7;
+  font-size: 32px;
+}
+#header4-1f P {
+  text-align: right;
+}
+#ext_menu-1g .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1g.mbr-navbar--stuck .mbr-navbar__section {
+  background: #dccbc1;
+}
+#ext_menu-1g .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+
+#header4-1h H1 {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: center;
+  color: #f1c7c7;
+  font-size: 32px;
+}
+#header4-1h P {
+  text-align: right;
+}
+#ext_menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #dccbc1;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+
+
+#header4-1j H1 {
+  font-family: 'Droid Sans', sans-serif;
+  text-align: left;
+  color: #f1c7c7;
+  font-size: 32px;
+}
+#header4-1j P {
+  text-align: right;
+}
+#header4-1j .btn {
+  font-size: 22px;
+  font-family: 'Roboto Slab', serif;
+}
+#ext_menu-1k .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1k.mbr-navbar--stuck .mbr-navbar__section {
+  background: #dccbc1;
+}
+#ext_menu-1k .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1l .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1l.mbr-navbar--stuck .mbr-navbar__section {
+  background: #dccbc1;
+}
+#ext_menu-1l .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1r .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1r.mbr-navbar--stuck .mbr-navbar__section {
+  background: #dccbc1;
+}
+#ext_menu-1r .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1w .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1w.mbr-navbar--stuck .mbr-navbar__section {
+  background: #dccbc1;
+}
+#ext_menu-1w .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1z .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1z.mbr-navbar--stuck .mbr-navbar__section {
+  background: #dccbc1;
+}
+#ext_menu-1z .mbr-navbar__hamburger {
   color: #ffffff;
 }
